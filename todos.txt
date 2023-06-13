@@ -1,0 +1,4 @@
+1. gitIgnore /lib/ and remove it from git
+2. remove gradle/wrapper/gradle-wrapper.jar and check mb whole directory
+3. wtf is this main/test.iml files?
+4. delete HELP.md
