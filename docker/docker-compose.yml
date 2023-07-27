@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  ubuntu-seminars:
+    container_name: ubuntu-seminars
+    platform: linux/amd64
+    image: ubuntu:focal
+    ports:
+      - 8080:8080
+    stdin_open: true
+    tty: true
